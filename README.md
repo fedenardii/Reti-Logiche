@@ -38,11 +38,11 @@ Il corso si concentra sulla programmazione a basso livello, sia per la scrittura
 ## Come Usare
 
 ### Assembler
-
+I seguenti comandi da terminale devono essere scritti sulla PowerShell `phsw`. 
 1. **Compilazione**
-   - Esegui `./assemble.ps1 nomeprogramma.s` per assemblare il codice.
+   - Esegui `./assemble.ps1 nomeprogramma.s` per assemblare il codice .
 2. **Esecuzione**
-   - Dopo l'assemblaggio, esegui con `./debug.ps1 nomeprogramma`.
+   - Dopo l'assemblaggio, esegui con `./nomeprogramma`.
 3. **Debugging**
    - Usa `i r` per visualizzare i registri.
    - Usa `x/b &nomevariabile` per esaminare la memoria.
