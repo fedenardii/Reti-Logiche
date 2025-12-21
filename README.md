@@ -1,5 +1,5 @@
-# Reti Logiche 9 CFU
-## Corso di Assembler e Verilog
+# Reti Logiche [9 CFU] 
+## Corso di Assembler e Verilog 💻
 
 ### Descrizione
 Questo repository contiene il materiale e gli esempi pratici per il **corso di Assembler x86** e **Verilog**. 
