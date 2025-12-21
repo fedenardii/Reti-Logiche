@@ -17,7 +17,7 @@ inizializza:
     lea array, %esi
     movl array_len, %ecx
     movw numero_cercare, %dx
-    xor %bx, %bx    #registro usato per contare quanti occorrenze = 1
+    xor %bx, %bx    #registro usato per contare quanti occorrenze 
 
 ciclo:
     lodsw           # Carica una Word da memoria [%esi] in %ax, poi incrementa %esi di 2
